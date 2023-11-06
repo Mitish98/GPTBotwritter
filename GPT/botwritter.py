@@ -7,7 +7,7 @@ from docx import Document
 palavrachave = []
 
 for artigo in palavrachave:
-    api_key = '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'
+    api_key = ''
     api_url = 'https://api.openai.com/v1/chat/completions'
     id_modelo = "gpt-3.5-turbo"
 
